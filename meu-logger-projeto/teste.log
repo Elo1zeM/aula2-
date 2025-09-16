@@ -1,0 +1,8 @@
+[2025-09-16T11:12:11.791Z] INFO: Aplicação iniciada com sucesso!
+[2025-09-16T11:12:11.793Z] WARN: Está é uma mensagem de aviso
+[2025-09-16T11:16:10.560Z] INFO: Aplicação iniciada com sucesso!
+[2025-09-16T11:16:10.562Z] WARN: Está é uma mensagem de aviso
+[2025-09-16T11:16:10.563Z] ERROR: Simulando um erro de teste
+[2025-09-16T11:16:32.157Z] INFO: Aplicação iniciada com sucesso!
+[2025-09-16T11:16:32.159Z] WARN: Está é uma mensagem de aviso
+[2025-09-16T11:16:32.160Z] ERROR: Simulando um erro de teste
